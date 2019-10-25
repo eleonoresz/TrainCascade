@@ -1,5 +1,5 @@
 import os
-do_posF = False
+do_posF = True
 print('HomeMade script for Haar cascade training')
 print('made by Eleonore Schiltz')
 print('adress concern at eleonore.schiltz@outlook.fr')
