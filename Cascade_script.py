@@ -1,9 +1,8 @@
 import os
 do_posF = True
-print('HomeMade script for Haar cascade training')
-print('made by Eleonore Schiltz')
-print('adress concern at eleonore.schiltz@outlook.fr')
-print('If one folder is named data on Bureau then it is gonna be DESTROY')
+print('Script to train Haar cascade - 2019')
+print('eleonore.schiltz@outlook.fr')
+print('WARNING - If one folder is named "data" on Desktop location, it will be erased')
 print('Tap Control + c if it is the case \/!\\')
 if do_posF == True:
 	os.system('workon cv') # lance openCV
