@@ -1,6 +1,6 @@
 cd /Bureau
 un folder de positives avec dedans les photos originales qui ont ete croppe
-positives = photos representant un seul objet (exemple: oeil, nez, criniere) que tu veux distinguer
+positives = photos representant un seul objet (exemple: oeil, nez, criniere) 
 un folder de negatives avec dedans negatives
 
 $ python Cascade_script.py
